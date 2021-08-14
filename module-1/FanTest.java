@@ -1,5 +1,5 @@
 /*
- * Shane Fox
+ * Shane Fox 8/14/2021
  * Module 1 Assignment
  * Create a class for Fan, provide default values and create two test methods.
  */
